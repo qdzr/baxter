@@ -1,0 +1,3 @@
+<physics type="ode">
+      <real_time_update_rate>0</real_time_update_rate>
+/*此句将时间数值改为0*/ 解决roslaunch baxter_gazebo baxter_world.launch运行时gazebo黑屏问题
